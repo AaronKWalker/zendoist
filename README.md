@@ -1,2 +1,2 @@
 # zendoist
-A little tool that webscraps a Zendesk view and updates a Todoist project via the Todist API 
+A little tool that hopefully uses the Zendesk API (will webscrape if unsuccessful) and updates a Todoist project via the Todist API 
