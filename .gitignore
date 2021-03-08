@@ -131,3 +131,5 @@ dmypy.json
 # Other
 info.*
 *.exe
+*.png
+captures/
